@@ -48,13 +48,15 @@ Run the setup file to install CASCADE on your computer.
 ## Make sure to run Cascade as admin.
 ▫️Also make sure that your system's display setting's scale should be set to 125% to render pages properly.
 
+### We are using Google Gemini/Vertex AI and it is under Pre-production so we need to add an email to the "test users" for you to be able to use the AI features. Please drop your Email ID at dayal700007@gmail.com so that we can grant you the access. You should login with this email id on google cloud SDK
+
 
 ## License
 This project is licensed under a custom license - see the [LICENSE](https://github.com/Kaosv2/Cascade-GenAI-Study-Companion/blob/main/LICENSE.md) file for details.
 
 
 ## Contact
-Made with Love By Harsh Dayal [Github](https://github.com/KaosV2) | [Linkedin](https://www.linkedin.com/in/harshdayal/) and Saanvi Sharma [Github](https://github.com/ConfusedReal) | [Linkedin](https://www.linkedin.com/in/saanvi-sharma-b12a27251/)!
+Made with Love By Harsh Dayal [Github](https://github.com/KaosV2) and Saanvi Sharma [Github](https://github.com/ConfusedReal)!
 
 For any queries or support, please open an issue on this repository or contact us at dayal700007@gmail.com or saanvisharma004@gmail.com.
 
